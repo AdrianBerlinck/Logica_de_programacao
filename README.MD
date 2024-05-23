@@ -1,5 +1,5 @@
-#LÓGICA DE PROGRAMAÇÃO 
-##É o local onde estarão todos os códigos da aula de programação.
-##Aluno: Adrian Berlinck
-##Curo: Técnico em Dev.
+# Lógica de programação
+
+##Aqui ficarão armazenadas todas as informações/códigos da unidade curricular de lógica de programação 
+
 ![imagem indisponível](giphy.gif)
