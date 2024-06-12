@@ -1,6 +1,6 @@
 import leia from "readline-sync";
 
-var quant_macas = leia.questionInt("Quantidade de macas compradas:");
+var quant_macas = leia.questionflo("Quantidade de macas compradas:");
 var valor_macas
 
 switch (quant_macas){
