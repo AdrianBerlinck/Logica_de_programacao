@@ -1,7 +1,11 @@
 {
-  "name": "menumaxbus",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+    
+  },
+  "name": "logica_de_programacao",
+  "description": "![imagem indisponível](giphy.gif)",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -9,8 +13,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "readline-sync": "^1.4.10"
-  }
+  "license": "ISC"
 }
