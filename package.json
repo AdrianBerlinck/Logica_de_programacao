@@ -1,7 +1,6 @@
 {
   "dependencies": {
     "readline-sync": "^1.4.10"
-    
   },
   "name": "logica_de_programacao",
   "description": "![imagem indisponível](giphy.gif)",
@@ -13,5 +12,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {}
 }
