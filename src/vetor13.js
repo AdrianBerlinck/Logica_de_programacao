@@ -11,17 +11,12 @@ var nota = 10;
 console.log("_____GABARITO_____");
 for (var i = 0; i < 10; i++) {
     vet[i] = leia.question("INFORME A RESPOSTA CORRETA DA QUESTAO " + (i + 1) + ": ");
-    if(vet[i] != "a" && vet[i] != "b" && vet[i] != "c" && vet[i] != "d" && vet[i] != "e"  && vet[i] != "f"){
-        i--;
-    }
+    
 }
-
 console.log("\nINFORME AS NOTAS DO ALUNO: ");
 for (var i = 0; i < vet.length; i++) {
     vet_aluno[i] = leia.question("QUESTAO " + (i + 1) + ": ");
-    if(vet[i] != "a" && vet[i] != "b" && vet[i] != "c" && vet[i] != "d" && vet[i] != "e"  && vet[i] != "f"){
-        i--;
-    }
+
 } 
 var nota = vet.length;
 for (var i = 0; i < vet.length; i++) {

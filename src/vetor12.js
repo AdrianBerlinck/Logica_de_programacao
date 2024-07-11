@@ -13,7 +13,7 @@ var cNum5 = 0
 var cNum6 = 0
 
 for (var i = 0; i < 1000; i++){
-    var aux = Math.floor(Math.random() * 5) + 1;
+    var aux = Math.floor(Math.random() * 6) + 1;
 switch (aux) {
     case 1:
         cNum1++

@@ -14,7 +14,8 @@ vet[i]= leia.questionInt();
     if(vet[i]%2 !==0){
         while(vet[i]%2 != 0){
 vet[i] = leia.questionInt("O " + (i+1) + " NUMERO NAO E PAR, valor atual: "+ vet[i] + ". DIGITE NOVAMENTE: ");
- 
 }
+
 }
+
 }
